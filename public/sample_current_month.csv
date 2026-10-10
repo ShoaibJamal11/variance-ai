@@ -1,0 +1,14 @@
+Account Code,Account Name,Category,Amount,Department
+5010,AWS Cloud Infrastructure,Technology,41800.00,Engineering
+5020,SaaS Tools & Subscriptions,Technology,9100.00,Operations
+6010,Full-Time Salaries,Payroll,145500.00,Human Resources
+6020,Contractor & Agency Fees,Payroll,29800.00,Engineering
+6030,Sales Commissions,Payroll,38500.00,Sales
+7010,Google & Meta Ad Spend,Marketing,68400.00,Marketing
+7020,Content & SEO Agency,Marketing,6500.00,Marketing
+7030,Events & Conferences,Marketing,18900.00,Marketing
+8010,Office Lease & Utilities,Facilities,12500.00,Operations
+8020,Legal & Compliance,Professional Services,14200.00,Legal
+8030,Accounting & Audit,Professional Services,3500.00,Finance
+8040,Travel & Entertainment,Operations,9800.00,Sales
+
